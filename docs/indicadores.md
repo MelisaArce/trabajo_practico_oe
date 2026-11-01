@@ -10,7 +10,7 @@ Los indicadores permiten evaluar la calidad de la información registrada, el co
 | **Asociación de oportunidades** | Porcentaje de oportunidades vinculadas a un cliente o prospecto registrado. | 100% |
 | **Trazabilidad comercial** | Porcentaje de oportunidades que cuentan con un historial de seguimientos registrado. | 100% |
 | **Disponibilidad del Sistema (Uptime)** | Tiempo que el módulo se encuentra en línea y accesible para los usuarios. | 99.9% |
-| **Latencia de consultas** | Tiempo máximo de respuesta al cargar el pipeline comercial o guardar un nuevo registro. | < 10 segundos |
+| **Latencia de consultas** | Tiempo máximo de respuesta al cargar el pipeline comercial o guardar un nuevo registro. | < 2 segundos |
 
 ## 2. Mecanismos de Control
 
